@@ -1,0 +1,10 @@
+duckdb
+pandas
+pyarrow
+deltalake
+faker
+openai
+httpx
+uvicorn
+python-dotenv
+a2a-sdk[http-server]>=1.2,<2

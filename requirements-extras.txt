@@ -1,0 +1,5 @@
+# Optional extras. Install only what you need:  pip install -r requirements-extras.txt
+langchain-openai            # langchain_agent.py (LangChain version of Lab 5)
+azure-ai-projects>=2.5.0    # foundry_*.py demo scripts (trainer demo on Microsoft Foundry)
+azure-identity
+# pyodbc                    # only for BACKEND=fabric (also needs Microsoft ODBC Driver 18 for SQL Server)

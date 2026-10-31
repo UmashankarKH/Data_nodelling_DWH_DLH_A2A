@@ -1,0 +1,8 @@
+.venv
+.env
+raw
+lakehouse
+export
+warehouse.duckdb
+__pycache__
+*.md
